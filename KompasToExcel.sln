@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KompasToExcel", "KompasToExcel\KompasToExcel.csproj", "{77EDA972-0BC5-4CD0-AF02-2871862A6416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelToKompas", "..\soft\ExcelToKompas\ExcelToKompas.csproj", "{8E341868-8B09-4AB5-86A7-3B0660C7D095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77EDA972-0BC5-4CD0-AF02-2871862A6416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EDA972-0BC5-4CD0-AF02-2871862A6416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EDA972-0BC5-4CD0-AF02-2871862A6416}.Debug|x64.ActiveCfg = Debug|x64
+		{77EDA972-0BC5-4CD0-AF02-2871862A6416}.Debug|x64.Build.0 = Debug|x64
+		{77EDA972-0BC5-4CD0-AF02-2871862A6416}.Debug|x86.ActiveCfg = Debug|x86
+		{77EDA972-0BC5-4CD0-AF02-2871862A6416}.Debug|x86.Build.0 = Debug|x86
+		{77EDA972-0BC5-4CD0-AF02-2871862A6416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EDA972-0BC5-4CD0-AF02-2871862A6416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77EDA972-0BC5-4CD0-AF02-2871862A6416}.Release|x64.ActiveCfg = Release|x64
+		{77EDA972-0BC5-4CD0-AF02-2871862A6416}.Release|x64.Build.0 = Release|x64
+		{77EDA972-0BC5-4CD0-AF02-2871862A6416}.Release|x86.ActiveCfg = Release|x86
+		{77EDA972-0BC5-4CD0-AF02-2871862A6416}.Release|x86.Build.0 = Release|x86
+		{8E341868-8B09-4AB5-86A7-3B0660C7D095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E341868-8B09-4AB5-86A7-3B0660C7D095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E341868-8B09-4AB5-86A7-3B0660C7D095}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8E341868-8B09-4AB5-86A7-3B0660C7D095}.Debug|x64.Build.0 = Debug|Any CPU
+		{8E341868-8B09-4AB5-86A7-3B0660C7D095}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8E341868-8B09-4AB5-86A7-3B0660C7D095}.Debug|x86.Build.0 = Debug|Any CPU
+		{8E341868-8B09-4AB5-86A7-3B0660C7D095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E341868-8B09-4AB5-86A7-3B0660C7D095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E341868-8B09-4AB5-86A7-3B0660C7D095}.Release|x64.ActiveCfg = Release|Any CPU
+		{8E341868-8B09-4AB5-86A7-3B0660C7D095}.Release|x64.Build.0 = Release|Any CPU
+		{8E341868-8B09-4AB5-86A7-3B0660C7D095}.Release|x86.ActiveCfg = Release|Any CPU
+		{8E341868-8B09-4AB5-86A7-3B0660C7D095}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25C4B38D-138A-4074-9F9B-ED57686D6A29}
+	EndGlobalSection
+EndGlobal
